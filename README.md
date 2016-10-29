@@ -22,6 +22,11 @@ If you will be using the CP to publish content from dev and production, but only
 production, you should make sure the `environments` array contains only `production`. Spock will do nothing
 when its running in any other environments.
 
+## Widget
+Also run commands manually from the Spock dashboard widget.
+
+![screenshot](https://cloud.githubusercontent.com/assets/414211/19828540/d3348020-9d7c-11e6-84ef-40f53090738e.png)
+
 ## Example
 On publishing, we want to use git to commit the page that was just edited, then push it.
 
