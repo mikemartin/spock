@@ -1,5 +1,13 @@
 environments:
-  - production
+  - live
+quotes:
+  - "Live long and prosper."
+  - "In critical moments, men sometimes see exactly what they wish to see."
+  - "Without followers, evil cannot spread."
+  - "When you eliminate the impossible, whatever remains, however improbable, must be the truth."
+  - "The needs of the many outweigh the needs of the few."
+  - "Computers make excellent and efficient servants, but I have no wish to serve under them."
 # commands:
-#   - "git add {{ full_path }}"
+#   - "git add -A"
 #   - "git commit -m '{{ url }} updated by {{ committer:username }}'"
+#   - "git push origin master"
